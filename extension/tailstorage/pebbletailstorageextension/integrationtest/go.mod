@@ -23,7 +23,7 @@ require (
 	go.opentelemetry.io/collector/receiver v1.67.1-0.20260917142259-65d9c38b188c
 	go.opentelemetry.io/collector/receiver/otlpreceiver v0.161.1-0.20260917142259-65d9c38b188c
 	go.opentelemetry.io/collector/service v0.161.1-0.20260917142259-65d9c38b188c
-	google.golang.org/grpc v1.83.2
+	google.golang.org/grpc v1.84.0
 )
 
 require (
